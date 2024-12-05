@@ -1,1 +1,4 @@
-# la-escasez-es-un-concepto-econ-mico
+# la-escasez-es-un-concepto-económico
+<div align="center">
+ <img src="laescasezesunconceptoeconomico.png"> 
+ <div>
